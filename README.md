@@ -4,8 +4,8 @@ Tous les problèmes LeetCode que j'ai effectué et que j'effectuerai dans le fut
 ## À ce jour :
 
 ### Easy
-  - two sums (06/02)
-  - Roman to integer (07/02)
-  - Longest Common Prefix (11/02)
+  - two sums (06/02/2024)
+  - Roman to integer (07/02/2024)
+  - Longest Common Prefix (11/02/2024)
 ### Medium 
 ### Hard 
