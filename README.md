@@ -8,5 +8,6 @@ Tous les problèmes LeetCode que j'ai effectué et que j'effectuerai dans le fut
   - Roman to integer (07/02/2024)
   - Longest Common Prefix (11/02/2024)
   - Find First Palindromic String in The Array (15/02/2024)
+  - Remove Element (16/02/2024)
 ### Medium 
 ### Hard 
